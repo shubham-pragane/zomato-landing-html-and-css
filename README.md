@@ -1,4 +1,4 @@
 # zomato-landing-html-and-css
-<img src="">
-<img src="">
-<img src="">
+<img src="top.png">
+<img src="middle.png">
+<img src="bottom.png">
